@@ -16,3 +16,7 @@ Resources
 
 - [Retinal image dataset](https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview)
 
+### Grad-CAM sample results
+
+<img src=".github\readme\gradcam1.png" width=75% height=75%>
+<img src=".github\readme\gradcam2.png" width=75% height=75%>
