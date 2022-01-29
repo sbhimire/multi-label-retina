@@ -18,5 +18,5 @@ Resources
 
 ### Grad-CAM sample results
 
-<img src=".github\readme\gradcam1.png" width=75% height=75%>
-<img src=".github\readme\gradcam2.png" width=75% height=75%>
+<img src=".github\readme\gradcam1.png" width=20% height=20%>
+<img src=".github\readme\gradcam2.png" width=20% height=20%>
