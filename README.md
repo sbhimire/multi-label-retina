@@ -5,8 +5,8 @@ This is a deep learning midterm project. The goal is to develop a solution, usin
 The project involves several sub-tasks:
 
 1. Build classification models
-   -Using atleast two different model architectures
-   -Explore transfer learning techniques
+   - Using atleast two different model architectures
+   - Explore transfer learning techniques
 2. GradCAM - Visualize regions of interest that contribute to Diabetic Retinopathy and Glaucoma
 3. Using the unlabeled dataset, augment the training data (semi-supervised learning) and report the change in classification performance on your (labeled) validation data set
 
