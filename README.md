@@ -1,11 +1,11 @@
 ## Multi-label classification of retinal disorders
 
-This is a deep learning course project. The goal is to develop a solution, using computer vision techniques, that can detect specific medical pathologies from patient's fundus images. The patient may have multiple pathologies.
+This is a deep learning course project. The goal is to develop a solution that uses computer vision techniques and can detect specific medical pathologies from a patient's fundus images. The patient may have multiple pathologies.
 
 The project involves several sub-tasks:
 
 1. Build classification models
-   - Using atleast two different model architectures
+   - Using at least two different model architectures
    - Explore transfer learning techniques
 2. GradCAM - Visualize regions of interest that contribute to Diabetic Retinopathy and Glaucoma
 3. Using the unlabeled dataset, augment the training data (semi-supervised learning) and report the change in classification performance on the (labeled) validation dataset
